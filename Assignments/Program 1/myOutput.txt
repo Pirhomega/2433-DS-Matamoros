@@ -1,0 +1,21 @@
+Corbin Matamoros
+  2 is the gray code integer equivalent to a 4-bit number of decimal value 3
+ 12 is the gray code integer equivalent to a 4-bit number of decimal value 8
+  5 is the gray code integer equivalent to a 4-bit number of decimal value 6
+  8 is the gray code integer equivalent to a 4-bit number of decimal value 15
+ 96 is the gray code integer equivalent to a 8-bit number of decimal value 64
+ 48 is the gray code integer equivalent to a 8-bit number of decimal value 32
+ 18 is the gray code integer equivalent to a 8-bit number of decimal value 28
+ 24 is the gray code integer equivalent to a 8-bit number of decimal value 16
+ 47 is the gray code integer equivalent to a 8-bit number of decimal value 53
+128 is the gray code integer equivalent to a 16-bit number of decimal value 255
+212 is the gray code integer equivalent to a 16-bit number of decimal value 152
+164 is the gray code integer equivalent to a 16-bit number of decimal value 199
+155 is the gray code integer equivalent to a 16-bit number of decimal value 237
+  9 is the gray code integer equivalent to a 16-bit number of decimal value 14
+145 is the decimal value of gray code 11011001
+131 is the decimal value of gray code 11000010
+204 is the decimal value of gray code 10101010
+118 is the decimal value of gray code 1001101
+138 is the decimal value of gray code 11001111
+ 38 is the decimal value of gray code 110101

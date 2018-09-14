@@ -1,19 +1,19 @@
 Corbin Matamoros
-0
-1
-0
-1
-3
-2
-0
-1
-3
-2
-6
-7
-5
-4
-6
-2
-14
-0
+  0 is the gray code integer equivalent to a 1-bit number of decimal value 0
+  1 is the gray code integer equivalent to a 1-bit number of decimal value 1
+  0 is the gray code integer equivalent to a 2-bit number of decimal value 0
+  1 is the gray code integer equivalent to a 2-bit number of decimal value 1
+  3 is the gray code integer equivalent to a 2-bit number of decimal value 2
+  2 is the gray code integer equivalent to a 2-bit number of decimal value 3
+  0 is the gray code integer equivalent to a 3-bit number of decimal value 0
+  1 is the gray code integer equivalent to a 3-bit number of decimal value 1
+  3 is the gray code integer equivalent to a 3-bit number of decimal value 2
+  2 is the gray code integer equivalent to a 3-bit number of decimal value 3
+  6 is the gray code integer equivalent to a 3-bit number of decimal value 4
+  7 is the gray code integer equivalent to a 3-bit number of decimal value 5
+  5 is the gray code integer equivalent to a 3-bit number of decimal value 6
+  4 is the gray code integer equivalent to a 3-bit number of decimal value 7
+  6 is the decimal value of gray code 101
+  2 is the decimal value of gray code 11
+ 14 is the decimal value of gray code 1001
+  0 is the decimal value of gray code 0
