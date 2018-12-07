@@ -1,0 +1,11 @@
+Corbin Matamoros
+Max GCD and Min LCM Program
+There will be 5 test cases!
+
+    maxGCD    minLCM
+        32        32
+         7        21
+      2000        45
+         3       624
+        27        18
+
