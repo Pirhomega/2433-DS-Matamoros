@@ -1,0 +1,8 @@
+Corbin Matamoros
+
+  N      iterative      recursive     closedForm   Equal?
+  2              5              5              5        Y
+  1              1              1              1        Y
+  8            204            204            204        Y
+  3             14             14             14        Y
+ 14           1015           1015           1015        Y
